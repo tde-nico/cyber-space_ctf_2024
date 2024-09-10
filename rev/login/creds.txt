@@ -1,0 +1,4 @@
+Username: 4dm1n
+Password: Sup3rS3cr3tf0rMyS3cuR3L0ginApp
+
+# CSCTF{SuP3r_S3cuRe_l0g1n_1234}
